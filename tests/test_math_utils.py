@@ -1,3 +1,5 @@
+"""Tests for math utility functions."""
+
 from src.math_utils import add
 
 
